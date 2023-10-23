@@ -1,5 +1,5 @@
 ## CNN_Parallel_Programming
-3-2, 4-1 멀티코어프로그래밍 수업에서 진행한 CNN 모델 병렬 처리 프로젝트
+2022 Sejong University Multicore Programming project
 
 ## 프로젝트 개요
 
